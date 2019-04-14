@@ -4733,10 +4733,13 @@ header li:hover {
 	background-image: url('assets/images/banner.jpg');
 }
 
-p, h2, h3 {
+p, h2, h3, a {
 	margin-left: 20px;
 }
 
+body {
+	margin-right: 20px
+}
 
 
 /*# sourceMappingURL=main.faaf51f9.map*/
